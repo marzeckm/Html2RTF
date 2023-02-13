@@ -3,7 +3,7 @@
 A tool for converting HTML content into RTF (Rich Text Format) which can be edited and read by word processing software like Wordpad, Microsoft Word, LibreOffice Writer, and others.
 
 ## Features
-- Supports conversion of semantic HTML tags into RTF text tags.
+- Supports conversion of semantic HTML tags like `divs`, `sections`, `header`, `footer` and `articles` into RTF text tags.
 - Removes unsupported or empty tags.
 - Converts HTML image tags with links in `src` attribute to RTF images in hexcode.
 - Converts HTML colors in style attributes (only RGB) to RTF colors by adding them to the color table of the RTF.
