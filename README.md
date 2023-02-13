@@ -13,12 +13,12 @@ A tool for converting HTML content into RTF (Rich Text Format) which can be edit
 
 ## Usage
 To use the converter, you have to include the rtf.php in your PHP-File
-include "./bin/rtf.php";
+```include "./bin/rtf.php";```
 Now you can convert the code by transfering the HTML code as String to the function convertHtmlToRtf().
-$richText = HtmlToRTF::convertHtmlToRtf($html);
+```$richText = HtmlToRTF::convertHtmlToRtf($html);```
 
 ## Requirements
-- Python 3.x
+- PHP 7.0
 - A word processing software that can read RTF files.
 
 ## Contribute
