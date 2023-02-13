@@ -12,7 +12,7 @@ A tool for converting HTML content into RTF (Rich Text Format) which can be edit
 - Converts unordered and ordered lists from HTML to RTF understandable ordered and unordered lists.
 
 ## Usage
-To use the converter, you have to include the rtf.php in your PHP-File.``
+To use the converter, you have to include the rtf.php in your PHP-File.
 ```include "./bin/rtf.php";```
 Now you can convert the code by transfering the HTML code as String to the function convertHtmlToRtf().
 ```$richText = HtmlToRTF::convertHtmlToRtf($html);```
