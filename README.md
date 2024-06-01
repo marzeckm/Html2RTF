@@ -1,4 +1,4 @@
-# HtmlToRtf Converter
+# Html2Rtf
 
 A tool for converting HTML content into RTF (Rich Text Format) which can be edited and read by word processing software like Wordpad, Microsoft Word, LibreOffice Writer, and others.
 
